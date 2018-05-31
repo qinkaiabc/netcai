@@ -18,4 +18,4 @@ http://www.cnblogs.com/jurendage
 
 开源不易，需要你的支持
 
-https://github.com/137071249/netcai/blob/master/netcai/weixin.jpg
+![Image text]https://github.com/137071249/netcai/blob/master/netcai/weixin.jpg
