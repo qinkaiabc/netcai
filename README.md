@@ -15,3 +15,7 @@ Java开源生鲜电商平台(B2B平台)
 相关的内容简介与技术学习可以查看我的博客：
 
 http://www.cnblogs.com/jurendage
+
+开源不易，需要你的支持
+
+https://github.com/137071249/netcai/blob/master/netcai/weixin.jpg
