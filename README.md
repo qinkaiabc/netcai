@@ -19,3 +19,6 @@ http://www.cnblogs.com/jurendage
 开源不易，需要你的支持
 
 ![image](https://github.com/137071249/netcai/blob/master/netcai/weixin.jpg)
+
+
+![image](https://github.com/137071249/netcai/blob/master/netcai/alipay.jpg)
