@@ -22,3 +22,12 @@ http://www.cnblogs.com/jurendage
 
 
 ![image](https://github.com/137071249/netcai/blob/master/netcai/alipay.jpg)
+
+
+以下是支持过项目的QQ人，感谢你们（排名不分先后）
+2265184353,
+927997933,
+492943470,
+119186756,
+529176530,
+282324121
